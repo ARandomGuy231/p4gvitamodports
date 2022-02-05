@@ -10,3 +10,8 @@ If the mod you are looking for is not here. Either we haven't ported it, **OR** 
 Replaces 'Press any Button' with 'Damn that's crazy bro' and the P4G logo with 'But Did I ask?'
 
 PC Download and Screenshots: https://gamebanana.com/mods/9650
+
+### Fatlus Logo - By [SimonFoxcoon](https://gamebanana.com/members/1652560)
+Replaces the Atlus logo on boot with a logo that is slightly more insulting
+
+PC Download and Screenshots: https://gamebanana.com/mods/9639
