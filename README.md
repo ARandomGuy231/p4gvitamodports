@@ -8,4 +8,4 @@ If the mod you are looking for is not here. Either we haven't ported it, OR it w
 ## 'Damn that's crazy bro but did I ask' Title Screen - By [SimonFoxcoon](https://gamebanana.com/members/1652560)
 Replaces 'Press any Button' with 'Damn that's crazy bro' and the P4G logo with 'But Did I ask?'
 
-PC Download: https://gamebanana.com/mods/9650
+PC Download and Screenshots: https://gamebanana.com/mods/9650
