@@ -31,3 +31,6 @@ PC Download and Screenshots: https://gamebanana.com/mods/349860
 Replaces the gold Aeon arcana card seen in Marie's Social Link and Shuffle Time with a plain blue one.
 
 PC Download and Screenshots: https://gamebanana.com/mods/34014
+
+### Colorful Skills+ - By [Pixelguin](https://gamebanana.com/members/1736439), [rudiger_gb](https://gamebanana.com/members/1491857)
+Colors the icons for Persona skills and inventory items, Due to a transparency issue colors will be bugged outside of battle.
