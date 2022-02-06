@@ -26,3 +26,8 @@ PC Download and Screenshots: https://gamebanana.com/mods/34010
 This mod replaces the P4G logo on the title screen with one styled after the original Persona 4.
 
 PC Download and Screenshots: https://gamebanana.com/mods/349860
+
+### Blue Aeon Arcana - By [Pixelguin](https://gamebanana.com/members/1736439)
+Replaces the gold Aeon arcana card seen in Marie's Social Link and Shuffle Time with a plain blue one.
+
+PC Download and Screenshots: https://gamebanana.com/mods/34014
