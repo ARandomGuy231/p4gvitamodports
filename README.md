@@ -15,3 +15,9 @@ PC Download and Screenshots: https://gamebanana.com/mods/9650
 Replaces the Atlus logo on boot with a logo that is slightly more insulting
 
 PC Download and Screenshots: https://gamebanana.com/mods/9639
+
+### P4 The Animation Portraits - By [hellkrai](https://gamebanana.com/members/1559466)
+Replaces the poorly-upscaled dungeon portraits with HD artwork from Persona 4 The Animation.
+The portraits came from the anime's Blu-ray box art and have been carefully tweaked to fit P4G's UI.
+
+PC Download and Screenshots: https://gamebanana.com/mods/34010
