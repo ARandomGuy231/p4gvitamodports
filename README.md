@@ -21,3 +21,8 @@ Replaces the poorly-upscaled dungeon portraits with HD artwork from Persona 4 Th
 The portraits came from the anime's Blu-ray box art and have been carefully tweaked to fit P4G's UI.
 
 PC Download and Screenshots: https://gamebanana.com/mods/34010
+
+### Classic Logo - By [Pixelguin](https://gamebanana.com/members/1736439)
+This mod replaces the P4G logo on the title screen with one styled after the original Persona 4.
+
+PC Download and Screenshots: https://gamebanana.com/mods/349860
