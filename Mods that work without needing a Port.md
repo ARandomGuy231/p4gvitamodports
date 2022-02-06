@@ -5,3 +5,5 @@
 [Jack Sexo](https://gamebanana.com/mods/346445) - By [Pioziomgames](https://gamebanana.com/members/1757842)
 
 [Igor Blinks](https://gamebanana.com/mods/250286) - By [Pioziomgames](https://gamebanana.com/members/1757842)
+
+[P4 Arena Ultimax Battle Portraits](https://gamebanana.com/mods/34012) - By [rudiger__gb](https://gamebanana.com/members/1491857) (Already has a native Vita version)
