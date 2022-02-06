@@ -2,6 +2,10 @@
 ---
 [Social Link Cheat Sheet](https://gamebanana.com/mods/50885) - By [Tekka](https://gamebanana.com/members/1739579)
 
+[Classroom Answers](https://gamebanana.com/mods/50891) - By [Tekka](https://gamebanana.com/members/1739579)
+
+[Cooking Cheat Sheet](https://gamebanana.com/mods/33983) - By [Gellyfish](https://gamebanana.com/members/1764106)
+
 [Jack Sexo](https://gamebanana.com/mods/346445) - By [Pioziomgames](https://gamebanana.com/members/1757842)
 
 [Igor Blinks](https://gamebanana.com/mods/250286) - By [Pioziomgames](https://gamebanana.com/members/1757842)
