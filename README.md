@@ -37,7 +37,7 @@ Colors the icons for Persona skills and inventory items, Due to a transparency i
 
 PC Download and Screenshots: https://gamebanana.com/mods/55650
 
-### Detailed Descriptions = By [rudiger_gb](https://gamebanana.com/members/1491857)
+### Detailed Descriptions - By [rudiger_gb](https://gamebanana.com/members/1491857)
 In Persona 4 Golden, there are a number of descriptions and "info" boxes that either don't tell you anything useful, or present information in an unhelpfully abstract way. This mod aims to correct that.
 
 PC Download and Screenshots: https://gamebanana.com/mods/50874
