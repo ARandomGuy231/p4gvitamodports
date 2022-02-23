@@ -48,3 +48,8 @@ PC Download and Screenshots: https://gamebanana.com/mods/50874
 Restores every cut P3 Persona
 
 PC Download and Screenshots: https://gamebanana.com/mods/342822
+
+### Amagidyne over Burning Petals - By [MeovvCAT](https://gamebanana.com/members/1971520)
+Replaces Yukiko's ultimate skill name with Amagidyne, A much more fitting name
+
+PC Download and Screenshots: https://gamebanana.com/mods/357792
