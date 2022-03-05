@@ -53,3 +53,8 @@ PC Download and Screenshots: https://gamebanana.com/mods/342822
 Replaces Yukiko's ultimate skill name with Amagidyne, A much more fitting name
 
 PC Download and Screenshots: https://gamebanana.com/mods/357792
+
+### Dungeon Save Points - By [AnimatedSwine37](https://gamebanana.com/members/1742760)
+Adds save points to the final floor of every dungeon (except the Hollow Forest) like they were in the original Persona 4.
+
+PC Download and Screenshots: https://gamebanana.com/mods/356715
