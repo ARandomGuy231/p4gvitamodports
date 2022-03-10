@@ -60,6 +60,6 @@ Adds save points to the final floor of every dungeon (except the Hollow Forest) 
 PC Download and Screenshots: https://gamebanana.com/mods/356715
 
 ### Spongebob Morooka - By [Kylotl](https://gamebanana.com/members/1808669)
-Adds save points to the final floor of every dungeon (except the Hollow Forest) like they were in the original Persona 4.
+Replaces King Moron's dialogue sprite with Spongebob colors. I also did so for the model's textures, but those don't seem to work in cutscenes.
 
 PC Download and Screenshots: https://gamebanana.com/mods/250284
