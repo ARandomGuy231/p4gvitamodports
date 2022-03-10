@@ -60,6 +60,6 @@ Adds save points to the final floor of every dungeon (except the Hollow Forest) 
 PC Download and Screenshots: https://gamebanana.com/mods/356715
 
 ### Spongebob Morooka - By [Kylotl](https://gamebanana.com/members/1808669)
-Replaces King Moron's dialogue sprite with Spongebob colors. I also did so for the model's textures, but those don't seem to work in cutscenes.
+Replaces King Moron's dialogue sprite and model textures with Spongebob colors. (Cutscene models don't seem to work)
 
 PC Download and Screenshots: https://gamebanana.com/mods/250284
