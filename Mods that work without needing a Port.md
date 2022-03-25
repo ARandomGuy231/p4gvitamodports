@@ -13,3 +13,5 @@
 [P4 Arena Ultimax Battle Portraits](https://gamebanana.com/mods/34012) - By [rudiger__gb](https://gamebanana.com/members/1491857) (Already has a native Vita version)
 
 [No TV Static](https://gamebanana.com/mods/50899) - By [ShrineFox](https://gamebanana.com/members/1568750) (Already has a [native Vita version](https://amicitia.github.io/post/notvstatic))
+
+[P4AU Follow-Up Portraits](https://gamebanana.com/mods/34005) - By [Wxnder](https://gamebanana.com/members/1738696) (Already has a [native Vita version](https://gamebanana.com/mods/366622))
