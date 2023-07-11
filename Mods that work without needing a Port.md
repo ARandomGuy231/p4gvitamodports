@@ -10,7 +10,7 @@
 
 [Igor Blinks](https://gamebanana.com/mods/250286) - By [Pioziomgames](https://gamebanana.com/members/1757842)
 
-[P4 Arena Ultimax Battle Portraits](https://gamebanana.com/mods/34012) - By [rudiger__gb](https://gamebanana.com/members/1491857) (Already has a native Vita version)
+[P4AU Battle Portraits](https://gamebanana.com/mods/34012) - By [rudiger__gb](https://gamebanana.com/members/1491857) (Has a native Vita version, however it is currently broken. Wait for an update/improved port)
 
 [No TV Static](https://gamebanana.com/mods/50899) - By [ShrineFox](https://gamebanana.com/members/1568750) (Already has a [native Vita version](https://amicitia.github.io/post/notvstatic))
 
